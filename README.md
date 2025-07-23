@@ -24,3 +24,4 @@ Personal project. An app built with SwiftUI that contains information that could
 <img width="461" height="922" alt="Skjermbilde 2025-07-23 kl  21 33 36" src="https://github.com/user-attachments/assets/02b879d0-0f6b-4983-8a95-e3b6cad159fe" />
 <img width="451" height="919" alt="Skjermbilde 2025-07-23 kl  21 34 23" src="https://github.com/user-attachments/assets/198c2c4e-6d95-4929-b4fb-764ee05b3991" />
 <img width="461" height="915" alt="Skjermbilde 2025-07-23 kl  21 34 09" src="https://github.com/user-attachments/assets/06029184-0903-4f96-8d86-676a87dbebbe" />
+<img width="454" height="916" alt="Skjermbilde 2025-07-23 kl  21 33 51" src="https://github.com/user-attachments/assets/9fa50820-8c07-452a-b005-fd41e04506c6" />
