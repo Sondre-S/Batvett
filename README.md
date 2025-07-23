@@ -19,8 +19,8 @@ Personal project. An app built with SwiftUI that contains information that could
 - You can save your favorite knots & buoys for easy access
 
 ## Screenshots 
-
-<img width="461" height="912" alt="Skjermbilde 2025-07-23 kl  21 24 06" src="https://github.com/user-attachments/assets/9d744a21-c1f5-477c-96ab-7832b81b10a4" />
-<img width="461" height="912" alt="Skjermbilde 2025-07-23 kl  21 22 31" src="https://github.com/user-attachments/assets/b70c3260-e541-43ea-ad1f-46c4bcfe8c91" />
-<img width="461" height="912" alt="Skjermbilde 2025-07-23 kl  21 22 43" src="https://github.com/user-attachments/assets/95cab01b-93fc-4fb8-b688-2c8b74a75a22" />
-<img width="461" height="912" alt="Skjermbilde 2025-07-23 kl  21 23 34" src="https://github.com/user-attachments/assets/a9c5a172-a399-473a-be58-342a6d8a9432" />
+<img width="450" height="922" alt="Skjermbilde 2025-07-23 kl  21 34 55" src="https://github.com/user-attachments/assets/5ea49ec8-3ad5-44cb-92af-61b3f5cdbbcd" />
+<img width="452" height="920" alt="Skjermbilde 2025-07-23 kl  21 32 51" src="https://github.com/user-attachments/assets/62d04458-a466-4aa8-ab24-3a094ea0b1d3" />
+<img width="461" height="922" alt="Skjermbilde 2025-07-23 kl  21 33 36" src="https://github.com/user-attachments/assets/02b879d0-0f6b-4983-8a95-e3b6cad159fe" />
+<img width="451" height="919" alt="Skjermbilde 2025-07-23 kl  21 34 23" src="https://github.com/user-attachments/assets/198c2c4e-6d95-4929-b4fb-764ee05b3991" />
+<img width="461" height="915" alt="Skjermbilde 2025-07-23 kl  21 34 09" src="https://github.com/user-attachments/assets/06029184-0903-4f96-8d86-676a87dbebbe" />
