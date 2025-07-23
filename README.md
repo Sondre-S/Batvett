@@ -4,7 +4,7 @@ Personal project. An app built with SwiftUI that contains information that could
 ## Technology & Architecture :computer: 
 - Built using **SwiftUI**
 - Uses **SwiftData** for persistant storage
-- Built around **MVVM architechture** for organized code (probably overkill for this small project, but I wanted to pretend this was a big, and organize my code as if it was a big project...)
+- Built around **MVVM architechture** for organized code (probably overkill for this small project, but I wanted to pretend this was big, and organize my code accordingly)
 - Utilizing a **custom TabBar** & **custom ViewModifiers**
 
 
